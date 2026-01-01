@@ -27,8 +27,8 @@ I currently serve as a **Co-convener** for the Physics and Detector Simulation W
 ---
 
 ### 🎓 Education & Background
-* **Ph.D. in Particle Physics** | University of Manitoba (GPA: 4.5/4.5) 
-* **B.Sc. Joint Honors (Physics & Math)** | University of Manitoba (GPA: 4.36/4.5)
+* **Ph.D. in Particle Physics** | University of Manitoba 
+* **B.Sc. Joint Honors (Physics & Math)** | University of Manitoba 
 
 ---
 
