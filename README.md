@@ -38,4 +38,4 @@ I currently serve as a **Co-convener** for the Physics and Detector Simulation W
 
 **Connect with me:**
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/sakib-rahman-5a06293a/) 
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:rahmans@myumanitoba.ca)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:srahman1@bnl.gov)
