@@ -27,14 +27,14 @@ I currently serve as a **Co-convener** for the Physics and Detector Simulation W
 ---
 
 ### 🎓 Education & Background
-* **Ph.D. in Particle Physics** | University of Manitoba 
-* **B.Sc. Joint Honors (Physics & Math)** | University of Manitoba 
+* **Ph.D. in Particle Physics** | University of Manitoba (2022)
+* **B.Sc. Joint Honors (Physics & Math)** | University of Manitoba (2015)
 
 ---
 
 ### 💡 Innovation & Entrepreneurship
-* **BNL I-Corps:** Exploring commercialization of NVIDIA OptiX-based frameworks for optical photon tracking.
-* **BNL Entrepreneurship:** Validating value propositions for sub-picosecond timing synchronization.
+* **BNL Mini I-Corps Program:** Exploring commercialization of NVIDIA OptiX-based frameworks for optical photon tracking.
+* **BNL Entrepreneurship Program:** Validating value propositions for sub-picosecond timing synchronization.
 
 **Connect with me:**
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/sakib-rahman-5a06293a/) 
